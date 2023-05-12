@@ -33,3 +33,6 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ## Malaria
 
 Malaria infromation added here...
+
+##Thematic area
+
