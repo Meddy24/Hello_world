@@ -29,6 +29,19 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+#Import notifiable conditions file
+```{r}
+#calling packages
+library(tidyverse) #for data manipulation and visualization
+library(reshape2) # provides functions for reshaping data frames from "wide" to "long" format and vice versa
+library(gridExtra) # enables arranging multiple grid-based plots on a single page, combining multiple plots into a single plot, or arranging plots in a grid layout
+library(knitr) #facilitates dynamic report generation in R, allowing you to mix R code with narrative text and generate reports in various formats such as HTML, PDF,
+
+#reading data
+endemic_df <- read_csv("endemic_conditions.csv",show_col_types = FALSE)
+head(endemic_df)
+```
+
 
 ## Malaria
 
