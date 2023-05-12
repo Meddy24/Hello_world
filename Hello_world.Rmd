@@ -45,7 +45,18 @@ head(endemic_df)
 
 ## Malaria
 
+ Rek_JinjaRetreat
+Malaria information added here...
+Report on 
+OPD and IPD burden
+TPR
+Incidence
+Proportio of malaria deaths of all deaths
+Commodities.
+Trend line for Monthly cases
+
 Malaria infromation added here...
 
 ##Thematic area
 
+ main
