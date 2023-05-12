@@ -32,4 +32,11 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## Malaria
 
-Malaria infromation added here...
+Malaria information added here...
+Report on 
+OPD and IPD burden
+TPR
+Incidence
+Proportio of malaria deaths of all deaths
+Commodities.
+Trend line for Monthly cases
