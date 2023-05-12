@@ -28,3 +28,10 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+#### Adding a few plots
+
+#### Reporting rates
+
+#### Add a number of graphs
