@@ -29,6 +29,14 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+reporting_rates
+
+#### Adding a few plots
+
+#### Reporting rates
+
+#### Add a number of graphs
+
 #Import notifiable conditions file
 ```{r}
 #calling packages
@@ -59,4 +67,3 @@ Malaria infromation added here...
 
 ##Thematic area
 
- main
